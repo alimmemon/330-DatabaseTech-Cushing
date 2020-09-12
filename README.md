@@ -6,7 +6,8 @@
 
 ![](https://github.com/alimmemon/330-DatabaseTech-Cushing/blob/master/images/signup.png?raw=true)
 
-#####Once you are in, it will look something like this:
-![]()
+####Once you are in, it will look something like this:
+![](https://github.com/alimmemon/330-DatabaseTech-Cushing/blob/master/images/firstlook.png?raw=true)
+
 
  
