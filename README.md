@@ -9,5 +9,10 @@
 #### Once you are in, it will look something like this:
 ![](https://github.com/alimmemon/330-DatabaseTech-Cushing/blob/master/images/firstlook.png?raw=true)
 
+#### Click on New Repository
 
- 
+#### Repository Setup
+![](https://github.com/alimmemon/330-DatabaseTech-Cushing/blob/master/images/createrepo.png?raw=true)
+
+
+#### Clone the repository by clicking on the code, then copying the link or you can also use GitHub Desktop client.
