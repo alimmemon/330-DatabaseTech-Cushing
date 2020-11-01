@@ -29,3 +29,4 @@
 ### Step 3: Send to the repository.
 #### After adding your work to the local repository, open terminal or gitbash, and then type as follows below.
 ![](https://github.com/alimmemon/330-DatabaseTech-Cushing/blob/master/images/pushrepo.png?raw=true)
+#### The repository is now upto date with the cloud version.
